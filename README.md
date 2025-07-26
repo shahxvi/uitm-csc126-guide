@@ -25,6 +25,8 @@ This is a guide of CSC126 for diploma freshman in Computer Science at UiTM.
 
 [Dev-C++ Download Link](https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe/download)
 
+Note that this is the IDE that was recommended to me by my lecturer, you're free to explore other IDEs or code editors such as [Visual Studio Code](https://code.visualstudio.com) or [Nano](https://www.nano-editor.org/). Personally, I use [Vim](https://www.vim.org/) btw
+
 
 
 ## MQF Credit: 3
