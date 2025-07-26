@@ -11,8 +11,8 @@ This is a comprehensive guide of CSC126 for diploma freshman in Computer Science
 
 ## Programming Language:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="cplusplus logo"  />
+  <img width="48" />
 </div>
 
 [C++ Wikipedia](https://en.wikipedia.org/wiki/C++)
