@@ -3,7 +3,7 @@
   <img width="137" />
 </div>
 
-# CSC126 - Fundamentals of Algorithms & Computer Problem Solving
+# Fundamentals of Algorithms & Computer Problem Solving (CSC126)
 
 This is a comprehensive guide of CSC126 for diploma freshman in Computer Science at UiTM.
 
