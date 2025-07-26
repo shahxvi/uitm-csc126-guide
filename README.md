@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/74/Universiti_Teknologi_MARA_logo.svg" height="320" alt="uitm logo"  />
+  <img width="12" />
+</div>
+
 # CSC126 - Fundamentals of Algorithms & Computer Problem Solving
 
 This is a comprehensive guide of CSC126 for diploma freshman in Computer Science at UiTM.
