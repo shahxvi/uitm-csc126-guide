@@ -4,9 +4,15 @@ This is a comprehensive guide of CSC126 for diploma freshman in Computer Science
 
 [A compilation of exercises I made while enrolling in this course](https://github.com/shahxvi/uitm-cdcs110/tree/753e856f2000413dace510ed333f83134b6dca26/CSC126)
 
-## Programming Language Used: [C++](https://en.wikipedia.org/wiki/C++)
+## Programming Language:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+</div>
 
-## Integrated Environment Development (IDE): [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe/download)
+[C++ Wikipedia](https://en.wikipedia.org/wiki/C++)
+
+## Integrated Development Environment (IDE): [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe/download)
 
 ## MQF Credit: 3
 
