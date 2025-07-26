@@ -7,7 +7,7 @@
 
 This is a guide of CSC126 for diploma freshman in Computer Science at UiTM.
 
-[A compilation of exercises I made while enrolling in this course](https://github.com/shahxvi/uitm-cdcs110/tree/753e856f2000413dace510ed333f83134b6dca26/CSC126)
+# [A compilation of exercises I made while enrolling in this course](https://github.com/shahxvi/uitm-cdcs110/tree/753e856f2000413dace510ed333f83134b6dca26/CSC126)
 
 ## Programming Language:
 <div align="left">
