@@ -32,7 +32,7 @@ Note that this is the IDE that was recommended to me by my lecturer, you're free
 ## MQF Credit: 3
 
 ## Topics:
-1. Introduction to Programming
+1. [Introduction to Programming](https://github.com/shahxvi/uitm-cdcs110/blob/753e856f2000413dace510ed333f83134b6dca26/CSC126/W2%20Introduction/Topic%201%20(Slides).pdf)
 2. Sequence Structure
 3. Selection Control Structure
 4. Repetition Control Structure
