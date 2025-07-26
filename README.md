@@ -17,7 +17,15 @@ This is a comprehensive guide of CSC126 for diploma freshman in Computer Science
 
 [C++ Wikipedia](https://en.wikipedia.org/wiki/C++)
 
-## Integrated Development Environment (IDE): [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe/download)
+## Integrated Development Environment (IDE): 
+<div align="left">
+  <img src="https://bloodshed.net/data/_uploaded/image/blddevcpp.png" height="48" alt="cplusplus logo"  />
+  <img width="48" />
+</div>
+
+[Dev-C++ Download Link](https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe/download)
+
+
 
 ## MQF Credit: 3
 
