@@ -44,9 +44,9 @@ Note that this is the IDE that was recommended to me by my lecturer, you're free
 | Assessment Type       | Assessment Description                       | Percentage of Total Marks |
 | --------------------- | -------------------------------------------- | ------------------------- |
 | Quiz                  | Quiz covering Topic 1 & 2                    | 10%                       |
-| Individual Assignment | Assignment covering Topic 2 & 3              | 25%                       |
+| [Individual Assignment](https://github.com/shahxvi/uitm-cdcs110/tree/753e856f2000413dace510ed333f83134b6dca26/CSC126/W7%20%232%20Assessment%202%20-%20Individual%20Assignment) | Assignment covering Topic 2 & 3              | 25%                       |
 | Test                  | Test covering Topic 3 until 5                | 30%                       |
-| Group Project         | Group Project covering Topic 1 until Topic 6 | 35%                       |
+| [Group Project](https://github.com/shahxvi/csc126-group-project)         | Group Project covering Topic 1 until Topic 6 | 35%                       |
 
 
 
