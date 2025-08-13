@@ -36,7 +36,7 @@ Note that this is the IDE that was recommended to me by my lecturer, you're free
 2. Sequence Structure
 3. [Selection Control Structure](https://github.com/shahxvi/uitm-cdcs110/blob/3e63f2c1952c54615f486af1f1bc632712503fa1/CSC126/W5%20%232%20Selection%20Lab%20Module%201/00.%20Selection%20Control%20Structures.pdf)
 4. Repetition Control Structure
-5. Functions
+5. [Functions](https://github.com/shahxvi/uitm-cdcs110/blob/753e856f2000413dace510ed333f83134b6dca26/CSC126/W10%20Function%20Module%201/Topic%205%20-%20Functions.pdf)
 6. Arrays
 
 # Details of Continuous Assessment
