@@ -53,9 +53,8 @@ Note that this is the IDE that was recommended to me by my instructor, you're fr
 ## Recommended Text
 D. S. Malik 2017, C++ Programming: From Problem Analysis to Program Design, 8th Ed., Cengage Learning [ISBN: 9781337102087]
 
-## Other Related CSC126 GitHub Repositories
-[nadzArkpax/ThemeParkTicketingSystem](https://github.com/nadzArkpax/ThemeParkTicketingSystem)
+## [Other Related CSC126 GitHub Repositories](https://github.com/search?q=csc126+language%3AC%2B%2B&type=repositories)
 
 ---
 
-[UiTM CSC126 Institutional Repository](https://ir.uitm.edu.my/id/eprint/75273/1/75273.pdf)
+## [UiTM CSC126 Institutional Repository](https://ir.uitm.edu.my/id/eprint/75273/1/75273.pdf)
