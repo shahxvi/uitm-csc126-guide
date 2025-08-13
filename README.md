@@ -55,3 +55,7 @@ D. S. Malik 2017, C++ Programming: From Problem Analysis to Program Design, 8th 
 
 ## Other Related CSC126 GitHub Repositories
 [nadzArkpax/ThemeParkTicketingSystem](https://github.com/nadzArkpax/ThemeParkTicketingSystem)
+
+---
+
+[UiTM CSC126 Institutional Repository](https://ir.uitm.edu.my/id/eprint/75273/1/75273.pdf)
